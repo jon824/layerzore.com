@@ -3,7 +3,7 @@
     padding: 0;
 }
 header{
-    background-image:url(images/banner.jpeg);
+    background-colour:black;
     height: 100vh;
     background-position: center;
     background-size: cover;
