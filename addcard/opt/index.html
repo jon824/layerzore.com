@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GFG OTP Verification</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="header">
+                <h1 style="color:green">
+                    GeeksforGeeks
+                </h1>
+                <h2 style="color:black">
+                    OTP Verification
+                </h2>
+            </div>
+            <div class="content" id="content">
+                <button id="generateBtn" onclick="OTPFn()">
+                    Generate OTP
+                </button>
+                <div id="otpForm" class="otp-form">
+                    <input type="text" id="userOTP" placeholder="Enter OTP">
+                    <button onclick="OTPVerifyFn()">
+                        Verify
+                    </button>
+                </div>
+                <div id="successMessage" class="success-message">
+                    <i class="fas fa-check"></i>
+                    <p>Congratulations Geek! OTP is Verified!</p>
+                </div>
+                <div id="errorMessage" class="error-message"></div>
+                <div id="timer" class="timer"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

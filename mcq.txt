@@ -1,0 +1,100 @@
+Here are some short multiple-choice questions (MCQs) for a civil engineering interview:
+
+### General Civil Engineering
+1. **What is the unit of stress?**
+   - A) Pascal
+   - B) Newton
+   - C) Joule
+   - D) Watt
+
+2. **Which of the following is not a type of foundation?**
+   - A) Strip foundation
+   - B) Raft foundation
+   - C) Deep foundation
+   - D) Wall foundation
+
+3. **What is the primary purpose of a retaining wall?**
+   - A) To support a building
+   - B) To retain soil at different levels
+   - C) To provide drainage
+   - D) To reduce seismic forces
+
+### Structural Engineering
+4. **In reinforced concrete, what is the primary purpose of using reinforcement bars?**
+   - A) To resist compression
+   - B) To resist tension
+   - C) To resist shear
+   - D) To resist bending
+
+5. **Which of the following is a common type of beam used in construction?**
+   - A) T-beam
+   - B) S-beam
+   - C) P-beam
+   - D) M-beam
+
+### Geotechnical Engineering
+6. **What does the term 'cohesion' refer to in soil mechanics?**
+   - A) The internal friction between soil particles
+   - B) The tendency of soil particles to stick together
+   - C) The water content of the soil
+   - D) The density of the soil
+
+7. **Which test is used to determine the liquid limit of soil?**
+   - A) Proctor test
+   - B) Triaxial test
+   - C) Atterberg limits test
+   - D) Sieve analysis
+
+### Hydraulics and Hydrology
+8. **What is the primary purpose of a weir in hydraulics?**
+   - A) To measure flow rate
+   - B) To store water
+   - C) To prevent flooding
+   - D) To support a bridge
+
+9. **Which of the following is an open channel flow equation?**
+   - A) Bernoulli’s equation
+   - B) Darcy-Weisbach equation
+   - C) Manning’s equation
+   - D) Reynolds equation
+
+### Transportation Engineering
+10. **What is the purpose of a traffic signal?**
+    - A) To increase road capacity
+    - B) To regulate traffic flow
+    - C) To reduce vehicle speed
+    - D) To provide lighting
+
+11. **Which type of curve is commonly used in highway design?**
+    - A) Parabolic curve
+    - B) Circular curve
+    - C) Elliptical curve
+    - D) Hyperbolic curve
+
+### Environmental Engineering
+12. **What is BOD a measure of in water quality testing?**
+    - A) Biodegradable Oxygen Demand
+    - B) Biological Oxygen Demand
+    - C) Biochemical Oxygen Demand
+    - D) Basic Oxygen Demand
+
+13. **Which of the following processes is used for wastewater treatment?**
+    - A) Filtration
+    - B) Distillation
+    - C) Sedimentation
+    - D) Osmosis
+
+### Construction Management
+14. **What is a Gantt chart used for?**
+    - A) Designing structures
+    - B) Scheduling project tasks
+    - C) Calculating material quantities
+    - D) Managing financial accounts
+
+15. **What does CPM stand for in project management?**
+    - A) Critical Path Method
+    - B) Construction Project Management
+    - C) Cost Planning Method
+    - D) Contract Performance Measure
+
+These questions cover a range of topics relevant to civil engineering and are designed to test fundamental knowledge in the field.
